@@ -28,4 +28,6 @@ and number of tickets opened in the categories administrative and technical.
 
 [Link to Dashboard](https://app.powerbi.com/reportEmbed?reportId=28a37a41-5130-4b19-9f80-bb418e4c077b&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
 
+![Customer_Analysis](https://user-images.githubusercontent.com/91919362/216160024-0cce8e68-1d39-41bd-a57b-6b0c855949fa.jpg)
+
 
