@@ -12,6 +12,8 @@ Call center KPI present :
 - Agent’s performance 
 
 [Link to Dashboard](https://app.powerbi.com/reportEmbed?reportId=eb2c3b29-465d-43a4-9d71-3ca6dd503993&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
+![Call_Center_KPI](https://user-images.githubusercontent.com/91919362/216159070-28ef8e34-d6ae-4ab5-ba8c-ae96524900e5.jpg)
+
 
 2nd assignement report regarding customer retention :
 it would be better to know in advance who is at risk 
