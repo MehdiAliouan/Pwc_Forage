@@ -11,7 +11,7 @@ Call center KPI present :
 - Average speed of answer
 - Agent’s performance 
 
-Link to Dashboard : https://app.powerbi.com/reportEmbed?reportId=eb2c3b29-465d-43a4-9d71-3ca6dd503993&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
+[Link to Dashboard](https://app.powerbi.com/reportEmbed?reportId=eb2c3b29-465d-43a4-9d71-3ca6dd503993&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
 
 2nd assignement report regarding customer retention :
 it would be better to know in advance who is at risk 
@@ -24,6 +24,6 @@ support, and streaming TV and movies.
 and number of tickets opened in the categories administrative and technical.
 - Demographic info about customers – gender, age range, and if they have partners and dependents.
 
-Link to Dashboard : https://app.powerbi.com/reportEmbed?reportId=28a37a41-5130-4b19-9f80-bb418e4c077b&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9
+[Link to Dashboard](https://app.powerbi.com/reportEmbed?reportId=28a37a41-5130-4b19-9f80-bb418e4c077b&autoAuth=true&ctid=1158e2d5-dc24-41ad-abce-62841076dbde&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtYi1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9)
 
 
